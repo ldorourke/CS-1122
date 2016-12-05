@@ -1,3 +1,8 @@
+'''
+Lucas O'Rourke
+Sorts a list using the selection sort algorithm
+'''
+
 import time
 import random
 
@@ -21,10 +26,15 @@ def main():
    
    selectionSort(alist)
 
-t1 = time.time()
-print("Starting time:", t1)
-main()
-t2 = time.time()
-print("Ending time:", t2)
+t1 = time.time()
+
+print("Starting time:", t1)
+
+main()
+
+t2 = time.time()
+
+print("Ending time:", t2)
+
 print("Time to run 100000 inputs:", t2 - t1, "seconds")
 
