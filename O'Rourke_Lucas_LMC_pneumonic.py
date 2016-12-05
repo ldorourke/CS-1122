@@ -1,7 +1,6 @@
 '''
 Lucas O'Rourke
-hw05
-Part 2 - disassembler.py
+Using LMC commands to disassemble into computer language
 '''
 
 INS_REF = {0: "DAT", 1: "ADD", 2: "SUB", 3: "STA", 5: "LDA", 6: "BRA", \
