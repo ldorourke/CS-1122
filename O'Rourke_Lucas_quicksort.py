@@ -1,3 +1,8 @@
+'''
+Lucas O'Rourke
+Sorts a list using the quicksort algorithm
+'''
+
 import time
 import random
 
