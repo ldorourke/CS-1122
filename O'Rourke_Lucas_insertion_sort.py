@@ -1,3 +1,8 @@
+'''
+Lucas O'Rourke
+Sorts a lost using the insertion sort method
+'''
+
 import random
 import time
 
