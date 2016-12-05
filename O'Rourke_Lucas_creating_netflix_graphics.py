@@ -1,3 +1,8 @@
+'''
+Lucas O'Rourke
+Draws the Netflix graphic with a user's name
+'''
+
 from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageColor
