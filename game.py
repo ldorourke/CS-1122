@@ -1,3 +1,5 @@
+#Collaboration with classmates. NOT ALL MY CODE
+
 import pygame
 import time
 import sys
