@@ -1,3 +1,8 @@
+'''
+Lucas O'Rourke
+Converts numbers to decimal, hexadecimal, and binary
+'''
+
 def dec_to_bin(dec_num): # Number 2
     bin_num = bin(dec_num)
     print(dec_num, "in binary is", bin_num)
